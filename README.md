@@ -34,6 +34,10 @@ for group, condition in age_groups.items():
     print()
 ```
 ### Output:
+![image](https://github.com/user-attachments/assets/ef21667d-566d-4fca-bfa8-ad4363b3b95d)
+![image](https://github.com/user-attachments/assets/b35a62cc-bf5a-49db-86fe-32457eb69444)
+![image](https://github.com/user-attachments/assets/3aee559d-cefa-418b-a7c3-7cde0075bd8b)
+![image](https://github.com/user-attachments/assets/845b52dc-1a79-4a08-bf86-1fb7188df45d)
 
 ### Visualization:
 ```python
@@ -56,6 +60,8 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
 ### Output:
+![image](https://github.com/user-attachments/assets/302317f1-c7b2-456a-8d55-77a8bca462ca)
 
 
 ### Result:
+Thus,Visitor segmentation based on age groups successfully completed.
