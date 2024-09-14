@@ -35,8 +35,11 @@ for group, condition in age_groups.items():
 ```
 ### Output:
 ![image](https://github.com/user-attachments/assets/b18d015c-c3e2-4506-9e7f-92fc749a0099)
+
 ![image](https://github.com/user-attachments/assets/8dd07c2f-6f79-42a5-b371-e7dbeffa5a20)
+
 ![image](https://github.com/user-attachments/assets/af923113-f6e7-4010-93ea-7361fea5954d)
+
 ![image](https://github.com/user-attachments/assets/0e5a1a6e-338f-462f-8f11-176d42df98da)
 
 ### Visualization:
