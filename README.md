@@ -34,10 +34,10 @@ for group, condition in age_groups.items():
     print()
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/ef21667d-566d-4fca-bfa8-ad4363b3b95d)
-![image](https://github.com/user-attachments/assets/b35a62cc-bf5a-49db-86fe-32457eb69444)
-![image](https://github.com/user-attachments/assets/3aee559d-cefa-418b-a7c3-7cde0075bd8b)
-![image](https://github.com/user-attachments/assets/845b52dc-1a79-4a08-bf86-1fb7188df45d)
+![image](https://github.com/user-attachments/assets/b18d015c-c3e2-4506-9e7f-92fc749a0099)
+![image](https://github.com/user-attachments/assets/8dd07c2f-6f79-42a5-b371-e7dbeffa5a20)
+![image](https://github.com/user-attachments/assets/af923113-f6e7-4010-93ea-7361fea5954d)
+![image](https://github.com/user-attachments/assets/0e5a1a6e-338f-462f-8f11-176d42df98da)
 
 ### Visualization:
 ```python
